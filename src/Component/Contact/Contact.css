@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+.contact-form{
+    width: 100%;
+    height: 810px;
+    padding-top: 40px;
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-vector/e-commerce-background-design_23-2147677355.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ok{
+    padding-top: 20px;
+}
+#ok_1{
+    font-weight: bold;
+    background-color:rgb(237, 230, 230);
+    height: 60px;
+    width: 380px;
+   
+}
+#ok_2{
+    font-weight: bold;
+    background-color:rgb(237, 230, 230);
+    height: 60px;
+    width: 380px;
+}
+#ok_3{
+    font-weight: bold;
+    background-color:rgb(237, 230, 230);
+    height: 60px;
+    width: 380px;
+}
+#ok_4{
+    font-weight: bold;
+    background-color:rgb(237, 230, 230);
+    height: 140px;
+    width: 380px;
+}
+#btn_1{
+    height: 60px;
+    width: 200px;
+    padding-right: 22px;;
+    font-size: 18px;
+    border-radius: 5px;
+    position: relative;
+    background-color: rgb(82, 76, 76);
+    border: none;
+    color: white;
+}
+

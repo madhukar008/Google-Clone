@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.about-pic{
+    width: 100%;
+    height:850px;
+    background-image: url("https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/05/14190804/e-commerce-.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
